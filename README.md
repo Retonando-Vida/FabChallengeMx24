@@ -1,10 +1,7 @@
-# FabChallengeMx24
+# Sprouting biodiversity at the urban level
 
-This is our place for all things related to the Fab Challenge México 2024. In here you'll find:
+This Gitbook serves to document the steps the Fab Challenge team and the Foundation Cauce team took to tackle the biodiversity problem during the Fab Challenge 2024 in México.
 
-* Website: 
-* Dashboard: https://sensecap.seeed.cc/dt/lu/t?id=1910bbe542dkQvxMe
-* Video: 
-* Gitbook: https://urbanika.gitbook.io/retonando-vida-sprouting-biodiversity/
-* Supporting research: 
-* Future developments: 
+In this section you'll find about the problem and its local context. In the next section you'll find the steps we carried out to tackle the problem.
+
+Let's get into it!
