@@ -23,7 +23,7 @@ nectar flow, alerting them to the need to feed (when weight is low) and to
 harvest honey (when weight is high). Comparing weight across hives gives
 beekeepers a sense of the relative productivity of each colony. A dramatic drop
 in weight can suggest that the colony has swarmed, or the hive has been knocked
-over by animals. And
+over by animals.
 
 ### Temperature 
 
@@ -86,4 +86,19 @@ researchers, and educators. They provide a platform for studying bee behavior,
 hive dynamics, and the effects of external factors on bee health. Researchers
 can use data from smart hives to conduct studies on pollination patterns,
 colony genetics, and the efficacy of beekeeping practices.
+
+## Our implementation
+
+To get the above data from the beehive, there are already many ready-made
+solutions. Partly commercial, partly open source. For both, these solutions are
+either too expensive or difficult to obtain for the Fablab of Cuidad Retono.
+Fortunately, this challenge was sponsored by Seeed Studio and we had access to
+a LoraWan (indoor) gateway and a sensor kit.
+
+This gave the team access to almost all the sensors and the network part needed
+to transform a prototype beehive into a smart beehive.
+
+- [SenseCap M2 LoraWan Indoor Gateway](https://www.seeedstudio.com/SenseCAP-LoRaWAN-Starter-Kit-US915-p-5790.html)
+- [SenseCAP K1100 - The Sensor Prototype Kit](https://www.seeedstudio.com/Seeed-Studio-LoRaWAN-Dev-Kit-p-5370.html)
+
 
