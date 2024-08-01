@@ -12,11 +12,15 @@
 
 ## Pilot
 
+* [IoT](pilot/iot/README.md)
+  * [The built-in technology](pilot/iot/iot-internet-of-things-for-data-based-decision-making/README.md)
+    * [Sensor network](pilot/iot/iot-internet-of-things-for-data-based-decision-making/sensor-network.md)
+  * [Smart Beehive](pilot/iot/smart-beehive.md)
+  * [Smart gardens](pilot/iot/smart-gardens.md)
 * [Map the feasible parcels to intervene](pilot/map-the-feasible-parcels-to-intervene.md)
 * [Legal, regulatory, and administrative compliance in México for taking out concrete floor](pilot/legal-regulatory-and-administrative-compliance-in-mexico-for-taking-out-concrete-floor.md)
 * [Supporting research](pilot/supporting-research.md)
 * [Business model](pilot/business-model.md)
-* [IoT (Internet of Things) for data-based decision making](pilot/iot-internet-of-things-for-data-based-decision-making.md)
 * [Human resources and tasks needed](pilot/human-resources-and-tasks-needed.md)
 * [Pilot results and insights](pilot/pilot-results-and-insights.md)
 * [Next steps](pilot/next-steps.md)

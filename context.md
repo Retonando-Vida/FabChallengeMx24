@@ -17,7 +17,7 @@ So we decided to work on removing concrete and planting community gardens that c
 
 &#x20;
 
-<figure><img src=".gitbook/assets/Imagen de WhatsApp 2024-08-01 a las 11.30.02_bf694c99.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Overall_concept_graphic.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Facts about cement and how it is directly related to the problem we are tackling
 
