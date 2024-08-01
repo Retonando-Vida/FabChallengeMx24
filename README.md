@@ -7,3 +7,4 @@ Dashboard
 Video
 Gitbook
 Supporting research
+Future developments
