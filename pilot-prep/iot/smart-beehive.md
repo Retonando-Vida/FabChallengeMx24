@@ -56,3 +56,5 @@ This gave the team access to almost all the sensors and the network part needed 
 This gave us the network and already some sensors to be used in the beehive: temperature, humidity. For beecounting we used a [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), a little microcontroller board that offers wifi, but also integrates built-in camera sensor and a digital microphone. To the esp32 we also connected a set of 50KG halfe bridge body Load cells to measure the weight of the beehive.
 
 ![](../../pilot/iot/connecting-4-load-cells-to-build-load-cells-2579477808.webp)
+
+![](./hx711.jpg)
