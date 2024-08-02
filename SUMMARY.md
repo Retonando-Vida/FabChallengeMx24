@@ -10,17 +10,21 @@
 * [3. Refine idea into a proposal](prototype-by-fabchallenge-mx-with-nektli/3.-refine-idea-into-a-proposal.md)
 * [Results](prototype-by-fabchallenge-mx-with-nektli/results.md)
 
-## Pilot
+## Pilot prep
 
-* [IoT](pilot/iot/README.md)
-  * [The built-in technology](pilot/iot/iot-internet-of-things-for-data-based-decision-making/README.md)
-    * [Sensor network](pilot/iot/iot-internet-of-things-for-data-based-decision-making/sensor-network.md)
-  * [Smart Beehive](pilot/iot/smart-beehive.md)
-  * [Smart gardens](pilot/iot/smart-gardens.md)
-* [Map the feasible parcels to intervene](pilot/map-the-feasible-parcels-to-intervene.md)
-* [Legal, regulatory, and administrative compliance in México for taking out concrete floor](pilot/legal-regulatory-and-administrative-compliance-in-mexico-for-taking-out-concrete-floor.md)
-* [Supporting research](pilot/supporting-research.md)
-* [Business model](pilot/business-model.md)
-* [Human resources and tasks needed](pilot/human-resources-and-tasks-needed.md)
-* [Pilot results and insights](pilot/pilot-results-and-insights.md)
-* [Next steps](pilot/next-steps.md)
+* [IoT](pilot-prep/iot/README.md)
+  * [The built-in technology](pilot-prep/iot/iot-internet-of-things-for-data-based-decision-making/README.md)
+    * [Sensor network](pilot-prep/iot/iot-internet-of-things-for-data-based-decision-making/sensor-network.md)
+  * [Smart Beehive](pilot-prep/iot/smart-beehive.md)
+  * [Smart gardens](pilot-prep/iot/smart-gardens.md)
+* [Map the feasible parcels to intervene](pilot-prep/map-the-feasible-parcels-to-intervene.md)
+* [Legal, regulatory, and administrative compliance in México for taking out concrete floor](pilot-prep/legal-regulatory-and-administrative-compliance-in-mexico-for-taking-out-concrete-floor.md)
+* [Supporting research](pilot-prep/supporting-research.md)
+* [Business model](pilot-prep/business-model.md)
+* [Training team and test prototypes](pilot-prep/human-resources-and-tasks-needed.md)
+* [Pilot results and insights](pilot-prep/pilot-results-and-insights.md)
+
+## Pilot implementation
+
+* [Phase 1: Nature's comeback](pilot-implementation/phase-1-natures-comeback.md)
+* [Phase 2: Launch of adoption program](pilot-implementation/phase-2-launch-of-adoption-program.md)
