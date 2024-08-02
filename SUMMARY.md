@@ -21,6 +21,7 @@
 * [Legal, regulatory, and administrative compliance in México for taking out concrete floor](pilot-prep/legal-regulatory-and-administrative-compliance-in-mexico-for-taking-out-concrete-floor.md)
 * [Supporting research](pilot-prep/supporting-research.md)
 * [Business model](pilot-prep/business-model.md)
+* [Website](pilot-prep/website.md)
 * [Training team and test prototypes](pilot-prep/human-resources-and-tasks-needed.md)
 * [Pilot results and insights](pilot-prep/pilot-results-and-insights.md)
 
