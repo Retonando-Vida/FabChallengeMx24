@@ -9,4 +9,6 @@ Flow chart of LoRa-WAN communication
 ![LoRA\_Diagram](https://github.com/user-attachments/assets/667ba13e-696b-40a9-9843-bbebb8bced74)
 
 
-The data is compressed on the microcontroller into data packets that are as compact as possible and then sent by the microcontroller via LoRaWan and received by one or more gateways. These gateways send the data on to a server (in our case, thethingsnetwork). On thethingsnetwork's side, the data packets are brought back to the correct units. A webhook to our website has also been set up.
+Our smart beehive solution features a comprehensive dashboard that consolidates data from all sensors, offering a detailed overview of hive and garden conditions. The data is compressed on the microcontroller into data packets that are as compact as possible and then sent by the microcontroller via LoRa-WAN and received by one or more gateways. These gateways send the data on to a server. On the server’s side, the data packets are brought back to the correct units.
+
+This platform centralizes metrics including temperature, bee counts, weight, moisture, and light levels. It enables gardeners and beekeepers to monitor and manage remotely, detect issues such as diseases or environmental stressors early, and make data-driven decisions. Additionally, this dashboard serves as a valuable resource for educational and research purposes, advancing our understanding of beekeeping and urban greening.
