@@ -48,6 +48,8 @@ Smart beehives also offer educational opportunities for beekeepers, researchers,
 
 ## Our implementation
 
+[Watch the video](./smarthive.mp4)
+
 To get the above data from the beehive, there are already many ready-made solutions. Partly commercial, partly open source. For both, these solutions are either too expensive or difficult to obtain for the Fablab of Cuidad Retono. Fortunately, this challenge was sponsored by [Seeed Studio](https://seeedstudio.com) and we had access to a LoraWan (indoor) gateway and a sensor kit.
 
 This gave the team access to almost all the sensors and the network part needed to transform a prototype beehive into a smart beehive.
