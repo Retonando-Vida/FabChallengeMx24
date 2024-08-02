@@ -62,7 +62,7 @@ halfe bridge body Load cells to measure the weight of the beehive.
 
 ![](./connecting-4-load-cells-to-build-load-cells-2579477808.webp)
 
-###HX711
+### HX711
 
 HX711 is a 24-bit analog to digital converter (ADC) IC. It as built-in a
 preamplifier that is used to amplify low voltage signals. HX711 chip takes
