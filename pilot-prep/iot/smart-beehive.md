@@ -53,41 +53,8 @@ This gave the team access to almost all the sensors and the network part needed 
 * [SenseCap M2 LoraWan Indoor Gateway](https://www.seeedstudio.com/SenseCAP-LoRaWAN-Starter-Kit-US915-p-5790.html)
 * [SenseCAP K1100 - The Sensor Prototype Kit](https://www.seeedstudio.com/Seeed-Studio-LoRaWAN-Dev-Kit-p-5370.html)
 
-This gave us the network and already some sensors to be used in the beehive:
-temperature, humidity. For beecounting we used a [XIAO ESP32S3
-Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), a little
-microcontroller board that offers wifi, but also integrates built-in camera
-sensor and a digital microphone. To the esp32 we also connected a set of 50KG
-halfe bridge body Load cells to measure the weight of the beehive.
+This gave us the network and already some sensors to be used in the beehive: temperature, humidity. For beecounting we used a [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), a little microcontroller board that offers wifi, but also integrates built-in camera sensor and a digital microphone. To the esp32 we also connected a set of 50KG halfe bridge body Load cells to measure the weight of the beehive.
 
-![](./connecting-4-load-cells-to-build-load-cells-2579477808.webp)
+![](connecting-4-load-cells-to-build-load-cells-2579477808.webp)
 
-###HX711
-
-HX711 is a 24-bit analog to digital converter (ADC) IC. It as built-in a
-preamplifier that is used to amplify low voltage signals. HX711 chip takes
-voltage signals as an input and provides digital values.  The preamplifier
-handles low voltages. It has an on-chip power supply regulator that provides
-analog power due to which you don’t need an external supply regulator.
-
-This chip is mainly suitable for weight measurement applications. The load
-cells that are used in weight scaling applications give very low output
-voltage. This output voltage is usually in the order of millivolts.
-Conventional, ADC ICs such as ADC0804 can not measure such low voltage with
-good resolution or accuracy. HX711 ADC can measure these low scale voltages and
-convert them into digital values.  Because it has a preamplifier inside the
-chip which makes it suitable for such applications.
-
-#### Features
-
-- It is an ADC converter with two differential input channels
-- An active-low noise PGA is integrated inside the chip which provides the gain of 32, 64 and 128
-- It has a power-on-reset capability which simplifies digital interface initialization.
-- All controls to the IC are made through the pins. Programming is not needed.
-- You can select a data rate of 10SPS or 80SPS at the output.
-- Provides simultaneous supply rejection of 50Hz and 60Hz supply.
-- Built-in analog power supply regulator
-- The voltage supply range is from 2.6V to 5.5V
-- The temperature range is from -40 °C to +85℃
-
-![](./hx711.jpg)
+![](hx711.jpg)
