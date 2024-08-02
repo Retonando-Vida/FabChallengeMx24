@@ -92,13 +92,23 @@ colony genetics, and the efficacy of beekeeping practices.
 To get the above data from the beehive, there are already many ready-made
 solutions. Partly commercial, partly open source. For both, these solutions are
 either too expensive or difficult to obtain for the Fablab of Cuidad Retono.
-Fortunately, this challenge was sponsored by Seeed Studio and we had access to
-a LoraWan (indoor) gateway and a sensor kit.
+Fortunately, this challenge was sponsored by [Seeed
+Studio](https://seeedstudio.com) and we had access to a LoraWan (indoor)
+gateway and a sensor kit.
 
 This gave the team access to almost all the sensors and the network part needed
 to transform a prototype beehive into a smart beehive.
 
 - [SenseCap M2 LoraWan Indoor Gateway](https://www.seeedstudio.com/SenseCAP-LoRaWAN-Starter-Kit-US915-p-5790.html)
 - [SenseCAP K1100 - The Sensor Prototype Kit](https://www.seeedstudio.com/Seeed-Studio-LoRaWAN-Dev-Kit-p-5370.html)
+
+This gave us the network and already some sensors to be used in the beehive: 
+temperature, humidity. For beecounting we used a [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html),
+a little microcontroller board that offers wifi, but also integrates built-in
+camera sensor and a digital microphone. To the esp32 we also connected a set
+of 50KG halfe bridge body Load cells to measure the weight of the beehive. 
+
+![](./connecting-4-load-cells-to-build-load-cells-2579477808.webp)
+
 
 
