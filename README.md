@@ -6,6 +6,7 @@ These are the resources we've developed for you:
 
 * Dashboard: https://sensecap.seeed.cc/dt/lu/t?id=1910bbe542dkQvxMe
 * Gitbook: https://urbanika.gitbook.io/retonando-vida-sprouting-biodiversity/
+* Website: [https://arthvelc.github.io/nektliFabLab2024/](https://arthvelc.github.io/nektliFabLab2024/)
 
 In the next section you'll find the steps we carried out to tackle the problem.
 
