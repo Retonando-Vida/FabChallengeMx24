@@ -39,7 +39,7 @@ Besides being tax deductible, the benefits of adopting a garden are:
 1m2 $67.5 MXN/mon (3.97 USD/mo)
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Company" %}
 Besides being tax deductible, the benefits you get from adopting a garden are:
 
 🌻Experience in creating their Garden
